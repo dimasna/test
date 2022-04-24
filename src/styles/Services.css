@@ -1,0 +1,31 @@
+.serviceContainer{
+    padding: 0 1em;
+    flex: 1;
+    padding-bottom: 1em;
+}
+.serviceTitle{
+    color: rgb(255, 234, 113);
+}
+.subtitle{
+    font-weight: 500;
+    color: rgb(255, 234, 113);
+}
+.text{
+    color: rgb(255, 234, 113);
+    font-size: small
+}
+.buttonContainer{
+    display: flex;
+    justify-content: left;
+    gap: 1em;
+    padding-top: 2em;
+}
+.buttonService{
+    border: 2px solid rgb(255, 234, 113);
+    background: none;
+    color: rgb(255, 234, 113);
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 50em;
+    cursor: pointer;
+}

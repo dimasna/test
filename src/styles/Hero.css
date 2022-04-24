@@ -1,0 +1,44 @@
+.heroContainer {
+  height: 505px;
+  display: flex;
+  background-image: url("../assets/img_hero.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-content: center;
+  justify-content: center;
+  padding: 0 10px;
+}
+
+.heroContent{
+    padding-top: 3em;
+    text-align: center;
+}
+
+.heroButton{
+    border: none;
+    margin-top: 3em;
+    padding: 1em;
+    border-radius: 5em;
+    cursor: pointer;
+}
+
+.custom-shape-divider-bottom-1650766644 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    margin-top: -9em;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1650766644 svg {
+    position: relative;
+    display: block;
+    width: calc(161% + 1.3px);
+    height: 144px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1650766644 .shape-fill {
+    fill: #FFFFFF;
+}

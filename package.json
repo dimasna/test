@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-svg-react": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}

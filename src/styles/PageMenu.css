@@ -1,0 +1,14 @@
+.menus{
+    display: flex;
+    gap: 1em;
+
+}
+.buttonMenu{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    padding: 5;
+}
+.buttonMenu:hover{
+    background-color: #bebcbc;
+}

@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    flex: 1;
+}
+.skillsWrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+}
+.cardContainer{
+    padding: 0 1em;
+}
